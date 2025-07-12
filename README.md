@@ -1,5 +1,5 @@
 # A Quantum Solver for Star Battle Puzzles Based on Grover's Algorithm
-This repository implements in Qiskit a quantum computer solver for [star battle puzzles](https://www.puzzle-star-battle.com/) using Grover's algorithm. For an introduction to star battle puzzles, complete details of the approach to building the solver, complexity analysis, and a discussion of possible future innovations, see the [iPython notebook](https://github.com/avijka/star_battle_Grover_solver/blob/main/01_star_battle_Grover_solver.ipynb) in this repository. For a usage example, see below.
+This repository implements in Qiskit a quantum computer solver for [star battle puzzles](https://www.puzzle-star-battle.com/) using Grover's algorithm. For an introduction to star battle puzzles, complete details of the approach to building the solver, complexity analysis, and a discussion of possible future innovations, see the [Jupyter notebook](https://github.com/avijka/star_battle_Grover_solver/blob/main/01_star_battle_Grover_solver.ipynb) in this repository. For a usage example, see below.
 
 ### Usage Example
 As an example, suppose you have partially solved a star battle puzzle, having found a couple of the stars:
